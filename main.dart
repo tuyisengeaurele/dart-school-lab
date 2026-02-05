@@ -1,5 +1,6 @@
-import 'collections.dart';
+import 'annonymous_arrow_functions.dart';
 
-void main(){
-  testCollections();
+void main() {
+  testAnonymousFunction(["Ruth", "Aurele", "Gad"]);
+  greetStudent("Ruth");
 }
