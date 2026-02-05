@@ -1,6 +1,5 @@
-import 'annonymous_arrow_functions.dart';
+import 'asynchronous.dart';
 
-void main() {
-  testAnonymousFunction(["Ruth", "Aurele", "Gad"]);
-  greetStudent("Ruth");
+Future<void> main() async {
+  await testAsync();
 }
