@@ -1,5 +1,5 @@
-import 'inheritance.dart';
+import 'interfaces.dart';
 
 void main() {
-  testInheritance();
+  testInterface();
 }
