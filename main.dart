@@ -1,5 +1,5 @@
-import 'interfaces.dart';
+import 'mixins.dart';
 
 void main() {
-  testInterface();
+  testMixin();
 }
