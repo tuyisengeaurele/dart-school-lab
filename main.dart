@@ -1,5 +1,5 @@
-import 'asynchronous.dart';
+import 'updated_mixin.dart';
 
-Future<void> main() async {
-  await testAsync();
+void main() {
+  testUpdatedMixin();
 }
