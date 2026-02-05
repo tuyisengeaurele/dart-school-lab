@@ -1,5 +1,5 @@
-import 'classes_constructors.dart';
+import 'inheritance.dart';
 
 void main() {
-  testStudent();
+  testInheritance();
 }
