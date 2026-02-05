@@ -1,5 +1,5 @@
-import 'mixins.dart';
+import 'collections.dart';
 
-void main() {
-  testMixin();
+void main(){
+  testCollections();
 }
